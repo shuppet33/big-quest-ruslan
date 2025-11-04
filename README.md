@@ -10,4 +10,4 @@ It is a visual novel with mini-games.:
 
 All these main games open hints to the location of gifts in the apartment.
 
-![gif](https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif)
+[gif]: https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif
