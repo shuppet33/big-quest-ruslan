@@ -1,5 +1,5 @@
 
-[gif]: https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif
+[alt text]: https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif
 
 Hi! This is a little quest game for my friend Ruslan in honor of his birthday.
 
