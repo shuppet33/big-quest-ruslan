@@ -1,7 +1,6 @@
 
-![mini video](https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif)
 
-Hi! This is a little quest game for my friend Ruslan in honor of his birthday.
+# Hi! This is a little quest game for my friend Ruslan in honor of his birthday.
 
 It is a visual novel with mini-games.:
 
@@ -13,3 +12,7 @@ It is a visual novel with mini-games.:
 
 All these main games open hints to the location of gifts in the apartment.
 
+
+
+
+![mini video](https://github.com/shuppet33/big-quest-ruslan/blob/main/video1.gif)
